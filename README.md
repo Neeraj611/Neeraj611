@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Neeraj 👋</h1>
+<h1 align="center">Hi, I'm Neeraj </h1>
 <h3 align="center">Computer Science undergraduate specializing in Blockchain Technology. Passionate about building robust decentralized systems and scalable full-stack applications.</h3>
 
 <p align="center"> 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 What I'm Building & Contributing
+###  What I'm Building & Contributing
 - 🛠️ **Open Source:** Contributed to **CLI11** (Modern C++ CLI Parser), successfully patching a C++26 std::complex template ambiguity and merging it into production.
 - 🏗️ **[KreatixLabs](https://kreatixlabs.com):** Architecting a Full-Stack CRM and AI-driven automated marketing engine using **Next.js, Prisma, and PostgreSQL**.
 - 🔭 **Blockchain:** Currently developing a **Decentralized Voting System** using Solidity on an Ethereum test network.
